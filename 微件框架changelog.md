@@ -5,6 +5,6 @@
 
 ## 1.0.1 (2019-09-23)
 
-提取微件加密组件到 <a href="https://www.npmjs.com/package/@huohua/security">@huohua/security</a>
+提取微件加密组件到 (https://www.npmjs.com/package/@huohua/security)@huohua/security</a>
 
 
